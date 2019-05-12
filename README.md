@@ -2,11 +2,11 @@
 ==========
 
 A highly-customizable races plugin with limitless possibilities!
-* Create your own race with custom abilities
-* Create skilltrees for you race
+* Create races with with custom abilities
+* Create skilltrees for your race
 * Create passive effects and triggers for your race
-* Set your own race items
-* Configure your own race leveling
+* Customizable race items
+* Configure race leveling to your liking
 * Hook into plugins like LibsDisguises for custom disguises
 * ... and a whole lot more! Refer to the wiki for more information!
 
