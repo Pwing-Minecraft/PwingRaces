@@ -25,6 +25,7 @@ This plugin is not quite released yet, so as of now, you cannot download it.
 
 * Spigot Download: *(coming soon)*
 * Songoda Marketplace Download: *(coming soon)*
+* PwingRaces Bot Development: https://github.com/finder1793/PwingRacesBot
 
 Reporting Issues:
 ---------
