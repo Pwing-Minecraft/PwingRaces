@@ -21,7 +21,7 @@ Downloads:
 PwingRaces is a premium plugin that costs **$15.00 USD**. With that being said, it is NOT free and if you recieved it from a third-party
 website, you will recieve NO support and will be reported. So please, if you have interest in using this plugin, don't steal it.
 
-* Spigot Download: https://www.spigotmc.org/resources/pwing-races-33-off-for-first-5-buyers.67808/
+* Spigot Download: https://www.spigotmc.org/resources/67808/
 * PwingRaces Bot Development: https://github.com/finder1793/PwingRacesBot
 
 Reporting Issues:
