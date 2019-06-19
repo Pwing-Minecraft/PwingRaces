@@ -42,7 +42,7 @@ race:
                     delay: 15
                     chance: 10
                     run-passives:
-                    - add-potion-effect 5 1
+                    - add-potion-effect speed 5 1
             attributes:
                 generic-attack-speed: 6
                 generic-max-health: 21
@@ -59,7 +59,7 @@ race:
                     delay: 15
                     chance: 20
                     run-passives:
-                    - add-potion-effect 5 2
+                    - add-potion-effect speed 5 2
             attributes:
                 generic-attack-speed: 6
                 generic-max-health: 23
@@ -76,7 +76,7 @@ race:
                     delay: 15
                     chance: 40
                     run-passives:
-                    - add-potion-effect 5 1
+                    - add-potion-effect increase_damage 5 1
             attributes:
                 generic-attack-speed: 7
                 generic-max-health: 25
@@ -116,7 +116,7 @@ race:
                     delay: 15
                     chance: 50
                     run-passives:
-                    - add-potion-effect 5 2
+                    - add-potion-effect increase_damage 5 2
     attributes:
         generic-attack-speed: 5
         max-mana: 200 # MagicSpells addon
