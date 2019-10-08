@@ -12,6 +12,8 @@ A highly-customizable races plugin with limitless possibilities!
 
 Wiki Link: https://pwing-races.fandom.com/wiki/Pwing_Races_Wiki
 
+API Development: https://github.com/Pwing-Minecraft/PwingRaces-API
+
 **Example Menu** (fully customizable as well :D) 
 
 ![Race Menu](https://i.imgur.com/U9Prv3W.png)
