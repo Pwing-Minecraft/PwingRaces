@@ -10,7 +10,7 @@ A highly-customizable races plugin with limitless possibilities!
 * Hook into plugins like LibsDisguises for custom disguises
 * ... and a whole lot more! Refer to the wiki for more information!
 
-Wiki Link: https://pwing-races.fandom.com/wiki/Pwing_Races_Wiki
+Wiki Link: https://github.com/Pwing-Minecraft/PwingRaces/wiki
 
 API Development: https://github.com/Pwing-Minecraft/PwingRaces-API
 
