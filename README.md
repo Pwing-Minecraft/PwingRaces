@@ -38,7 +38,7 @@ a bug is present, then it becomes harder to fix.
 Please, if you report a bug, provide ample information about your situation. 
 
 
-If you need an answer in a timely manner, please contact us on [Discord](https://discord.gg/jn2GAjz).
+If you need an answer in a timely manner, please contact us on [Discord](https://discord.gg/7MRPQmt).
 
 We really appreciate when you report bugs, and we would like you to report them to us whenever you find them.
 However please be mindful of the information that you give us and/or how you contact us. If you really have no 
